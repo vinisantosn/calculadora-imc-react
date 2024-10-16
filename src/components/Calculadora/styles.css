@@ -1,0 +1,30 @@
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+input {
+  width: 100px;
+  padding: 10px;
+  margin: 25px;
+}
+.resultado {
+  display: flex;
+  flex-direction: column;
+
+  margin: 32px;
+  color: blue;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.classificacao{
+    display: flex;
+  flex-direction: column;
+
+  margin: 32px;
+  
+  font-size: 16px;
+  font-weight: bold;
+}
